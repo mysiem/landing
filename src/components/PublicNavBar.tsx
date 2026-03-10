@@ -37,7 +37,7 @@ export function PublicNavBar() {
 
       <div className="mt-auto">
         <a
-          href="/login"
+          href="#"
           aria-label="Login"
           className="flex items-center justify-center w-full h-12 text-muted-foreground hover:text-foreground hover:bg-accent transition-colors"
         >
