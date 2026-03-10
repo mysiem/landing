@@ -1,0 +1,10 @@
+---
+import Layout from '../layouts/Layout.astro';
+import LoginForm from '../components/LoginForm';
+---
+
+<Layout title="SIEM Platform">
+  <div class="flex min-h-screen items-center justify-center bg-background p-4">
+    <LoginForm client:load />
+  </div>
+</Layout>
