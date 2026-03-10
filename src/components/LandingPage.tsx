@@ -228,7 +228,7 @@ const features: Feature[] = [
   {
     icon: Code2,
     title: 'Security as Code',
-    description: 'Define detection rules, policies, and pipelines in CUE with an integrated IDE and version control.',
+    description: 'Define detection rules, policies, and pipelines as code with an integrated IDE and version control.',
     visual: <MiniCode color={COLORS.cyan} />,
   },
 ]
